@@ -1,7 +1,7 @@
 // Simpan URL API dan instruksi sistem di sini.
 // PENTING: File ini tetap bisa dilihat oleh pengguna jika di-hosting secara publik.
 
-const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyD9u7MxzXiHP7ivvyfiZ9kbwnJ0f06VyO8`;
+const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=AIzaSyDHALOs_VpIGq7TdTPykGJClVe_QG4gC-o`;
 
 const SYSTEM_INSTRUCTION_TEXT = `Anda adalah seorang QA Architect berpengalaman.
 Tugas Anda: berdasarkan deskripsi fitur berikut, buat suite skenario pengujian dalam bahasa Indonesia.
